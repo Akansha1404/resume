@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#start{
+    height: 130px;
+    background-color: #0f1111;
+    text-align: center;
+    color: white;
+}
+.abc{
+    font-size: 20px;
+    margin-left: 25px;
+}
+.xyz{
+    font-size: 20px;
+    margin-left: 25px;
+}
+.def{
+    font-size: 20px;
+    margin-left: 25px;
+}
+#fgh{
+    font-size: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+}
+.ijk{
+    font-size: 20px;
+    position: absolute;
+    right: 25px;
+    top: 40%;
+}
+.pqr{
+    font-size: 20px;
+    position: absolute;
+    right: 338px;
+    top: 55%;
+}
+.mad{
+    font-size: 20px;
+    position: absolute;
+    right: 470px;
+    top: 88%;
+}
+.still{
+    font-size: 20px;
+    position: absolute;
+    right: 430px;
+    top: 115%;
+}
+#money{
+    font-size: 20px;
+    position: absolute;
+    right: 800px;
+    top: 49%;
+}
+#fire{
+    font-size: 20px;
+    position: absolute;
+    right: 720px;
+    top: 92%;
+}
+#block{
+    background-color: rgb(230, 230, 214);
+}
+.vl{
+    border-left: 6px solid black;
+    height: 780px;
+    position:absolute;
+    right: 45%;
+    top: 36.4%;
+}
